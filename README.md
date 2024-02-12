@@ -1,7 +1,7 @@
 # SCC Analysis: Capomulin Trial Insights 💉⚕️
 
 ## Introduction 👩‍⚕️
-Welcome to Squamous Cell Carcinoma (SCC) Drug Trials Analysis, this repository focuses on the drug Capomulin. As always, I'm glad to see you here! If it's your first time visiting, my name is Jazzy, the creator of this code. 
+Welcome to Squamous Cell Carcinoma (SCC) Drug Trials Analysis, this repository focuses on the drug Capomulin. As always, I'm glad to see you here! My name is Jazzy, the creator of this code. 
 
 ## Background 🧪
 As a **Senior Data Analyst** at Pymaceuticals Inc., I'm diving into anti-cancer medication research armed with complete data from our latest animal study—249 mice treated with various regimens over 45 days. In this pivotal role, I translate data into insights that hold the potential to revolutionize cancer treatment.
