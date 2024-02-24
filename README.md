@@ -13,15 +13,54 @@ As a **Senior Data Analyst** at Pymaceuticals Inc., I'm diving into anti-cancer 
 
 
 ## Key Learning Skills 🧫
-- **Data preparation and cleaning 🩺:** Understanding and organizing data to ensure it is accurate and ready for analysis, such as removing duplicates or correcting errors.
-- **Summary statistics calculation 🧾:** Calculating key numerical summaries of data, like averages or variability, to gain insight into its characteristics.
-- **Data visualization techniques 📊:** Creating visual representations of data, like charts or graphs, to better understand patterns or trends within the data.
-- **Quartile calculation and outlier detection 🔎:** Dividing data into four equal parts to identify the spread, and detecting data points that significantly differ from the rest, potentially indicating errors or anomalies.
-- **Plotting line and scatter plots 📈:** Representing data points on a graph to visualize relationships between variables, such as plotting tumor volume over time or against mouse weight.
-- **Correlation and regression analysis 🧠:** Evaluating the strength and direction of the relationship between variables, and using mathematical models to predict or explain the behavior of one variable based on another.
+**Data Preparation and Cleaning 🩺:**
+Understanding and organizing data to ensure it is accurate and ready for analysis, such as removing duplicates or correcting errors.
+
+**Summary Statistics Calculation 🧾:**
+Calculating key numerical summaries of data, like averages or variability, to gain insight into its characteristics.
+
+**Data Visualization Techniques 📊:** 
+Creating visual representations of data, like charts or graphs, to better understand patterns or trends within the data.
+
+**Quartile Calculation and Outlier Detection 🔎:**
+Dividing data into four equal parts to identify the spread, and detecting data points that significantly differ from the rest, potentially indicating errors or anomalies.
+
+**Plotting Line and Scatter Plots 📈:**
+Representing data points on a graph to visualize relationships between variables, such as plotting tumor volume over time or against mouse weight.
+    
+**Correlation and Regression Analysis 🧠:**
+Evaluating the strength and direction of the relationship between variables, and using mathematical models to predict or explain the behavior of one variable based on another.
 
 ## Analysis 💊
-insert analysis here 
+### **Qualitative Analysis** 📝
+
+The **correlation coefficient** between mouse weight (g) and average tumor volume (mm3) **is 0.84(mm3/g)**, indicating a strong positive correlation. Therefore, as mouse weight increases, average tumor volume tends to increase as well.
+
+### **Quantitative Analysis** 💉
+
+#### <u>Additional Facts</u>
+- There are 248 total mice in this data cleaned analysis
+- 49 are female
+- 51 are male
+
+
+#### <u>Effectiveness of Drugs (mm3)
+- **Capomulin:**
+    - 25% Quartile: 20.7
+    - 75% Quartile: 51.8
+    - IQR: 7.782
+- **Ramicane:**
+    - 25% Quartile: 17.9
+    - 75% Quartile: 54.3
+    - IQR: 9.099
+- **Infubino:**
+    - 25% Quartile: 36.8
+    - 75% Quartile: 82.7
+    - IQR: 11.477
+- **Ceftamin:**
+    - 25% Quartile: 25.4
+    - 75% Quartile: 87.7
+    - IQR: 15.578  
 
 ## Helpful Links 🌐
 1. Pandas Documentation:
