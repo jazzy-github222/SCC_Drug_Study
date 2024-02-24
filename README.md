@@ -40,8 +40,8 @@ The **correlation coefficient** between mouse weight (g) and average tumor volum
 
 #### <u>Additional Facts</u>
 - There are 248 total mice in this data cleaned analysis
-- 49 are female
-- 51 are male
+    - 49 are female
+    - 51 are male
 
 
 #### <u>Effectiveness of Drugs (mm3)
